@@ -1,5 +1,5 @@
-import Api from './services/Api'
-import AuthService from './AuthService'
+import Api from './services/api'
+import AuthService from './services/auth.service'
 
 export default {
     fetchProducts () {
