@@ -1,4 +1,4 @@
-import Api from './services/api'
+import Api from './api'
 
 export default {
     login (user) {
